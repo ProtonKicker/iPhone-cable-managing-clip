@@ -9,4 +9,4 @@ this is my 1st try, here's a pic showing how it looks:
 
 for my next step, I am going to:
 - double the amount of clips: 6 instead of 3 as we have now -> compatible to longer cables
-- make the clip stronger: adding wall thickness and making the openning smaller -> clip tighter
+- make the clip stronger: adding wall thickness and making the opening smaller -> clip tighter
