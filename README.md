@@ -5,8 +5,10 @@ As a result, I cannot arrange it neatly.
 That is why I decided to make this simple and easy to 3D print clip that could potentially help you tidy up your desk.
 ### version 2.0 print out analyses
 here's a pic of the broken clip (I broke it in testing):
+![IMG_20240210_102805](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/466b263d-a6e4-471e-8859-6de87f170b06)
 
 but it still works fine (it clips):
+![IMG_20240210_103948](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/96829079-fbc2-4a91-9874-7f7906896056)
 
 **there are definitely room for improvements**
 1. the print quality is bad
