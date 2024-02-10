@@ -3,6 +3,8 @@
 Sometimes my Apple lightning cable (for changing iPhones) is just to long. 
 As a result, I cannot arrange it neatly. 
 That is why I decided to make this simple and easy to 3D print clip that could potentially help you tidy up your desk.
+
+Downlaod the 3mf file as you like!
 ## version 3.0 design release
 A new design is made!
 
@@ -11,6 +13,10 @@ changes:
 - added 1 clip facing the reversed direction (same as v1.0)
 - reduced 6 clips to 5
 - added fillets
+
+process pics![Weixin Screenshot_20240210115927](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/dab33d4f-49b7-4e8b-8fd4-ebc7f06bfe7e)
+:
+![Weixin Screenshot_20240210120225](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/6f461297-5891-4f3e-8b38-62d360abdc5a)
 
 ## version 2.0 print out analyses
 here's a pic of the broken clip (I broke it in testing):
