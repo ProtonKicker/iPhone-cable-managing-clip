@@ -14,8 +14,8 @@ changes:
 - reduced 6 clips to 5
 - added fillets
 
-process pics![Weixin Screenshot_20240210115927](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/dab33d4f-49b7-4e8b-8fd4-ebc7f06bfe7e)
-:
+process pics![Weixin Screenshot_20240210115927]
+![Weixin Screenshot_20240210120032](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/ad9f8541-2863-49b3-9284-2e4aa6d39ccf)
 ![Weixin Screenshot_20240210120225](https://github.com/ProtonKicker/iPhone-cable-managing-clip/assets/154393892/6f461297-5891-4f3e-8b38-62d360abdc5a)
 
 ## version 2.0 print out analyses
